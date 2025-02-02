@@ -42,7 +42,7 @@ def lambda_handler(event, context):
 Example payload for testing in AWS Lambda:
  {
     "urls": [
-        "https://jsonplaceholder.typicode.com/posts/1",
-        "https://jsonplaceholder.typicode.com/posts/2"
+        "https://jsonplaceholder.typicode.com/post/1",
+        "https://jsonplaceholder.typicode.com/post/2"
    ]
 }
